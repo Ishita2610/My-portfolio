@@ -1,0 +1,15 @@
+[
+    {
+      "icon": "fab fa-github",
+      "link": "https://github.com/username"
+    },
+    {
+      "icon": "fab fa-linkedin",
+      "link": "https://linkedin.com/in/username"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "link": "mailto:username@example.com"
+    }
+  ]
+  

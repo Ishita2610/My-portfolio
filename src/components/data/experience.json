@@ -1,0 +1,13 @@
+[
+  {
+      "id": 1,
+      "role": "WEB DEVELOPER",
+      "organisation": "SS LEGAL AND PARTNERS",
+      "startDate": "Sept 2023,",
+      "endDate": "OCT 2023",
+      "location": "NEW DELHI,INDIA",
+      "experiences": [
+        "Developed a website for a law firm (sslegalpartners.com)."
+      ]
+    }
+]

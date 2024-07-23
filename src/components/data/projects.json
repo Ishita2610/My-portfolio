@@ -1,0 +1,28 @@
+[  
+
+{
+  "key": 1,
+  "title": "LEAD TRACKER",
+  "imageSrc": "projectImg/ext.png",
+  "description": "LEAD TRACKER is a neat chrome extension for tracking sales leads which allows us to save the url of a present tab or add your input which will remain saved until we delete them all.",
+  "demo": "https://ishita2610.github.io/Chrome-Extension.github.io/",
+  "source": "https://github.com/Ishita2610/Chrome-Extension.github.io"
+},
+    {
+        "key": 2,
+        "title": "VOICE ASSISTANT",
+        "imageSrc": "projectImg/logo.gif",
+        "description": "This is a project made with complete javascript. This Voice assistant named JARVIS is build in order to recognize your voice and take action according to that. For example: you can  ask where is taj mahal? ",
+        "demo": "https://ishita2610.github.io/VOICE-ASSISTANT/",
+        "source": "https://github.com/Ishita2610/VOICE-ASSISTANT"
+      },
+      
+      {
+        "key": 3,
+        "title": "BlackJack Game",
+        "imageSrc": "projectImg/gamee.png",
+        "description": "This is a project made with  javascript. When you hit start button device will take two cards randomly and you will hit a new card it will check if the sum is 21 or not. If you got 21 as a sum then boom you got a BlackJack!",
+        "demo": "https://ishita2610.github.io/black-jack-game.github.io/",
+        "source": "https://github.com/Ishita2610/black-jack-game.github.io"
+      }
+]
